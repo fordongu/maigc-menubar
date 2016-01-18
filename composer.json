@@ -1,5 +1,5 @@
 {
-  "name": "magic/Menubar",
+  "name": "magic/menubar",
   "description": "A Menubar builder for Laravel",
   "license": "LGPL",
   "keywords": [
